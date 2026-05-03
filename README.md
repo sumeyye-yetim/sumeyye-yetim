@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student @ FMV Işık University  
 🌍 Currently on Erasmus exchange @ Hochschule Rhein-Waal, Kleve — Germany  
-🎮 Passionate about game development & interactive systems  
+🌐 Passionate about web development — interested in the gaming industry  
 📬 sumeyyeyetim10@gmail.com
 
 ---
@@ -15,6 +15,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-lightblue?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-GitHub-black?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-Basic_UI%2FUX-purple?style=flat&logo=figma)
+![Arduino](https://img.shields.io/badge/Arduino-Embedded-teal?style=flat&logo=arduino)
+
+---
+
+## 💼 Experience
+
+**Web Development Intern — CYF Tech** *(2 months)*  
+→ Developed web applications using HTML, CSS, JavaScript  
 
 ---
 
@@ -23,6 +31,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Listify](https://github.com/sumeyye-yetim/listify) | Desktop app for task & list management | Java |
+| [Smart Visitor Entry System](https://github.com/sumeyye-yetim/smart-visitor-entry) | IoT-based smart site visitor management system | Arduino, C++ |
 | [FileSystemSimulator](https://github.com/sumeyye-yetim/FileSystemSimulator) | File system simulation with tree structure | Java |
 | [CityConnectionProject](https://github.com/sumeyye-yetim/CityConnectionProject) | Graph-based city routing algorithms | Java |
 | [StudentLinkedListSimulations](https://github.com/sumeyye-yetim/StudentLinkedListSimulations) | Linked list data structure simulations | Java |
