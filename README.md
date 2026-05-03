@@ -45,4 +45,4 @@
 
 ---
 
-💼 *Open to game development internship opportunities in Germany*
+💼 *Open to software engineering internship opportunities in Germany*
