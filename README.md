@@ -31,7 +31,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Listify](https://github.com/sumeyye-yetim/listify) | Desktop app for task & list management | Java |
-| [Smart Visitor Entry System](https://github.com/sumeyye-yetim/smart-visitor-entry) | IoT-based smart site visitor management system | Arduino, C++ |
+| [Smart Visitor Entry System](https://github.com/sumeyye-yetim/smart-visitor-entry-system) | IoT-based smart access control system | Arduino, C++, Python, PHP |
 | [FileSystemSimulator](https://github.com/sumeyye-yetim/FileSystemSimulator) | File system simulation with tree structure | Java |
 | [CityConnectionProject](https://github.com/sumeyye-yetim/CityConnectionProject) | Graph-based city routing algorithms | Java |
 | [StudentLinkedListSimulations](https://github.com/sumeyye-yetim/StudentLinkedListSimulations) | Linked list data structure simulations | Java |
